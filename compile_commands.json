@@ -1,0 +1,20 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-std=c11",
+      "-Wall",
+      "-Wextra",
+      "-I/usr/include/pipewire-0.3",
+      "-I/usr/include/spa-0.2",
+      "-D_REENTRANT",
+      "-o",
+      "Run",
+      "src/main.c"
+    ],
+    "directory": "/home/winter/src/wavpipewire",
+    "file": "/home/winter/src/wavpipewire/src/main.c",
+    "output": "/home/winter/src/wavpipewire/Run"
+  }
+]
